@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abel:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee:ital,wght@1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-dm-sans: "DM Sans";
+  --font-abel: Abel;
+  --font-roboto: Roboto;
+  --font-abeezee: ABeeZee;
+  --font-archivo-black: "Archivo Black";
+
+  /* font sizes */
+  --font-size-2xl: 21px;
+  --font-size-3xs: 10px;
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --font-size-9xl: 28px;
+  --font-size-smi: 13px;
+  --font-size-xl: 20px;
+  --font-size-xs: 12px;
+  --font-size-3xl: 22px;
+  --font-size-41xl: 60px;
+  --font-size-lg: 18px;
+  --font-size-15xl: 34px;
+  --font-size-109xl: 128px;
+  --font-size-23xl: 42px;
+  --font-size-mini: 15px;
+  --font-size-13xl: 32px;
+  --font-size-17xl: 36px;
+  --font-size-45xl: 64px;
+
+  /* Colors */
+  --color-whitesmoke: #f9fafc;
+  --main: #262626;
+  --color-gray-200: rgba(38, 38, 38, 0.6);
+  --color-gray-100: rgba(38, 38, 38, 0.37);
+  --color-aliceblue-100: #ebeef3;
+  --color-silver: #b8c2ce;
+  --color-white: #fff;
+  --color-royalblue: #285ecf;
+  --black: #3e3232;
+  --color-dimgray: #696868;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-base: 16px;
+  --gap-19xl: 38px;
+
+  /* Paddings */
+  --padding-7xs: 6px;
+  --padding-xs: 12px;
+  --padding-3xs: 10px;
+  --padding-7xl: 26px;
+  --padding-mini: 15px;
+
+  /* Border radiuses */
+  --br-7xs: 6px;
+  --br-10xs: 3px;
+  --br-9xs: 4px;
+  --br-xs: 12px;
+  --br-3xl: 22px;
+  --br-23xl-5: 42.5px;
+  --br-27xl: 46px;
+  --br-24xl: 43px;
+}

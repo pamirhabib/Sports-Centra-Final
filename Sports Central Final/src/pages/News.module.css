@@ -1,0 +1,203 @@
+.newsChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 92px;
+}
+.sportsCentral {
+  position: absolute;
+  top: 23px;
+  left: 135px;
+  font-size: var(--font-size-23xl);
+  letter-spacing: 0.01em;
+  line-height: 42px;
+  font-family: var(--font-abel);
+  color: var(--color-black);
+}
+.image2 {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 15px;
+  left: 32px;
+  border-radius: var(--br-23xl-5);
+  width: 92px;
+  height: 58px;
+  background-image: url(/public/image-2@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.race9803,
+.race98031,
+.race98032 {
+  position: absolute;
+  top: 241px;
+  left: 765px;
+  line-height: 100.9%;
+  font-weight: 500;
+  display: inline-block;
+  width: 222px;
+  height: 19px;
+}
+.race98031,
+.race98032 {
+  top: 613px;
+}
+.race98032 {
+  top: 990px;
+}
+.raceHose2Icon {
+  position: absolute;
+  top: 241px;
+  left: 271px;
+  border-radius: var(--br-7xs);
+  width: 468px;
+  height: 261px;
+  object-fit: cover;
+}
+.newYorka6YearOld,
+.yearOldHorseWins {
+  position: absolute;
+  top: 415px;
+  left: 777px;
+  font-size: var(--font-size-base);
+  line-height: 123.9%;
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 478px;
+  height: 87px;
+}
+.yearOldHorseWins {
+  top: 289px;
+  left: 765px;
+  font-size: var(--font-size-xl);
+  line-height: 136.9%;
+  font-family: var(--font-abeezee);
+  color: var(--main);
+  width: 490px;
+  height: 97px;
+}
+.newsItem {
+  position: absolute;
+  top: 652.5px;
+  left: 414.5px;
+  border-top: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 260px;
+  height: 1px;
+}
+.lastYearSavilia,
+.saviliaBlunkEmbraces {
+  position: absolute;
+  top: 772px;
+  left: 768px;
+  font-size: var(--font-size-base);
+  line-height: 123.9%;
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 475px;
+  height: 80px;
+}
+.saviliaBlunkEmbraces {
+  top: 657px;
+  left: 765px;
+  font-size: var(--font-size-xl);
+  line-height: 136.9%;
+  text-transform: capitalize;
+  font-family: var(--font-abeezee);
+  color: var(--main);
+  width: 487px;
+  height: 89px;
+}
+.cyclistLeadsActionfrontViewIcon {
+  position: absolute;
+  top: 613px;
+  left: 271px;
+  border-radius: var(--br-7xs);
+  width: 465px;
+  height: 266px;
+  object-fit: cover;
+}
+.newsInner {
+  position: absolute;
+  top: 1037.5px;
+  left: 414.5px;
+  border-top: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 260px;
+  height: 1px;
+}
+.lastYearSavilia1,
+.ryanGaricaIs {
+  position: absolute;
+  top: 1157px;
+  left: 768px;
+  font-size: var(--font-size-base);
+  line-height: 123.9%;
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 475px;
+  height: 80px;
+}
+.ryanGaricaIs {
+  top: 1039px;
+  font-size: var(--font-size-xl);
+  line-height: 136.9%;
+  text-transform: capitalize;
+  font-family: var(--font-abeezee);
+  color: var(--main);
+  width: 487px;
+  height: 89px;
+}
+.emptyBoxingArenaWaitingNew {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 990px;
+  left: 271px;
+  border-radius: var(--br-7xs);
+  width: 461px;
+  height: 269px;
+  background-image: url(/public/emptyboxingarenawaitingnewrounddrenderillustration-24@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.news1 {
+  position: absolute;
+  top: 22px;
+  left: 664px;
+  font-size: var(--font-size-45xl);
+  letter-spacing: 0.01em;
+  line-height: 60px;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: var(--font-abeezee);
+  background: linear-gradient(180deg, #262626, #b8c2ce);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 734px;
+  height: 160px;
+}
+.image8Icon {
+  position: absolute;
+  top: 6px;
+  left: 876px;
+  width: 82px;
+  height: 75px;
+  object-fit: cover;
+}
+.news {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  height: 1477px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-200);
+  font-family: var(--font-dm-sans);
+}

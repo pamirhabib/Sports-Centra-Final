@@ -1,0 +1,544 @@
+.discussionChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 92px;
+}
+.discussion1,
+.sportsCentral {
+  position: absolute;
+  letter-spacing: 0.01em;
+}
+.discussion1 {
+  top: 12px;
+  left: 602px;
+  font-size: var(--font-size-45xl);
+  line-height: 60px;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: var(--font-abeezee);
+  background: linear-gradient(180deg, #262626, #b8c2ce);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 379px;
+  height: 160px;
+}
+.sportsCentral {
+  top: 23px;
+  left: 135px;
+  font-size: var(--font-size-23xl);
+  line-height: 42px;
+  font-family: var(--font-abel);
+  color: var(--color-black);
+}
+.image2 {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 15px;
+  left: 32px;
+  border-radius: var(--br-23xl-5);
+  width: 92px;
+  height: 58px;
+  background-image: url(/public/image-2@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.hockeyPlayers1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  width: 370px;
+  height: 248px;
+  object-fit: cover;
+}
+.theVegasGolden {
+  position: absolute;
+  top: 445px;
+  left: 0;
+  font-size: var(--font-size-base);
+  line-height: 123.9%;
+  font-weight: 500;
+  display: inline-block;
+  width: 357px;
+}
+.imgavatar03Icon {
+  width: 44px;
+  position: relative;
+  border-radius: var(--br-xs);
+  height: 44px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.header {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 22px;
+  font-weight: 500;
+}
+.text {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.content,
+.june2023 {
+  position: absolute;
+  left: 0;
+}
+.content {
+  top: 276px;
+  width: 322px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--gap-base);
+  color: var(--black);
+  font-family: var(--font-roboto);
+}
+.june2023 {
+  top: 340px;
+  line-height: 100.9%;
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.hockey {
+  position: relative;
+  text-transform: capitalize;
+}
+.hockeyWrapper {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  border: 0.8px solid var(--color-aliceblue-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xs) var(--padding-3xs);
+  font-size: var(--font-size-xs);
+  color: var(--color-aliceblue-100);
+}
+.exercisesBasketballPlayers {
+  margin: 0;
+}
+.exercisesBasketballPlayersContainer {
+  position: absolute;
+  top: 372px;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  line-height: 29px;
+  font-family: var(--font-abel);
+  color: var(--main);
+  display: inline-block;
+  width: 370px;
+}
+.hockeyPlayers1Parent {
+  position: absolute;
+  top: 879px;
+  left: 147px;
+  width: 370px;
+  height: 505px;
+}
+.heartSg2001Transparent1 {
+  position: absolute;
+  top: 1178px;
+  left: 338px;
+  width: 37px;
+  height: 42px;
+}
+.goldenKnightsOut {
+  position: absolute;
+  top: 379px;
+  left: 6px;
+  font-size: var(--font-size-3xl);
+  line-height: 29px;
+  font-family: var(--font-abel);
+  color: var(--main);
+  display: inline-block;
+  width: 370px;
+}
+.threeWhiteShuttlecocksBadmiParent {
+  position: absolute;
+  top: 1536px;
+  left: 157px;
+  width: 370px;
+  height: 505px;
+}
+.heartSg2001Transparent2 {
+  position: absolute;
+  top: 1835px;
+  left: 345px;
+  width: 37px;
+  height: 42px;
+}
+.basketballEquipment1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  width: 407px;
+  height: 266px;
+  object-fit: cover;
+}
+.exercisesBasketballPlayersContainer1 {
+  position: absolute;
+  top: 372px;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  line-height: 29px;
+  font-family: var(--font-abel);
+  display: inline-block;
+  width: 370px;
+}
+.thisArticleWas {
+  position: absolute;
+  top: 445px;
+  left: 0;
+  font-size: var(--font-size-base);
+  line-height: 123.9%;
+  font-weight: 500;
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 357px;
+}
+.basketballEquipment1Parent {
+  width: 396px;
+  position: relative;
+  height: 532px;
+}
+.discussionInner {
+  text-decoration: none;
+  position: absolute;
+  top: 206px;
+  left: 147px;
+  width: 418px;
+  height: 559px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  color: var(--main);
+}
+.frameChild {
+  position: absolute;
+  top: 21px;
+  left: 0;
+  border-radius: var(--br-24xl);
+  width: 673.5px;
+  height: 543px;
+  mix-blend-mode: linear-burn;
+}
+.iWouldRecommend,
+.iWouldRecommend1 {
+  position: absolute;
+  top: 326px;
+  left: 155px;
+  line-height: 123.9%;
+  font-weight: 500;
+  display: inline-block;
+  width: 357px;
+}
+.iWouldRecommend1 {
+  top: 202px;
+}
+.content3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 322px;
+  height: 44px;
+}
+.header3,
+.header4,
+.wouldNotRecommend {
+  position: absolute;
+  top: 136px;
+  left: 156px;
+  line-height: 123.9%;
+  font-weight: 500;
+  display: inline-block;
+  width: 357px;
+}
+.header3,
+.header4 {
+  top: 258px;
+  left: 60px;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.1px;
+  line-height: 22px;
+  font-family: var(--font-roboto);
+  color: var(--black);
+  width: 262px;
+}
+.header4 {
+  top: 325px;
+}
+.content4,
+.groupChild,
+.groupItem {
+  position: absolute;
+  left: 0;
+  height: 44px;
+}
+.groupChild {
+  top: 252px;
+  width: 395px;
+  mix-blend-mode: multiply;
+}
+.content4,
+.groupItem {
+  top: 86px;
+  width: 322px;
+}
+.groupItem {
+  top: 314px;
+  width: 395px;
+  mix-blend-mode: multiply;
+}
+.header5 {
+  position: absolute;
+  top: 388px;
+  left: 60px;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.1px;
+  line-height: 22px;
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--black);
+  display: inline-block;
+  width: 262px;
+}
+.groupInner {
+  position: absolute;
+  top: 190px;
+  left: 0;
+  width: 395px;
+  height: 44px;
+  mix-blend-mode: multiply;
+}
+.iWouldRecommend3,
+.iWouldRecommend4 {
+  position: absolute;
+  top: 388px;
+  left: 157px;
+  line-height: 123.9%;
+  font-weight: 500;
+  display: inline-block;
+  width: 357px;
+}
+.iWouldRecommend4 {
+  top: 259px;
+  left: 155px;
+}
+.groupChild1,
+.rectangleIcon {
+  position: absolute;
+  top: 376px;
+  left: 0;
+  width: 395px;
+  height: 44px;
+  mix-blend-mode: multiply;
+}
+.groupChild1 {
+  top: 124px;
+}
+.comments,
+.header6 {
+  position: absolute;
+  display: inline-block;
+}
+.comments {
+  top: 30px;
+  left: 1px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 0.01em;
+  line-height: 60px;
+  text-transform: uppercase;
+  font-family: var(--font-abeezee);
+  background: linear-gradient(180deg, #262626, #b8c2ce);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 379px;
+  height: 160px;
+}
+.header6 {
+  top: 201px;
+  left: 60px;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.1px;
+  line-height: 22px;
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--black);
+  width: 262px;
+}
+.imgavatar03Icon3 {
+  position: absolute;
+  top: 124px;
+  left: 0;
+  border-radius: var(--br-xs);
+  width: 44px;
+  height: 44px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.text3 {
+  position: absolute;
+  top: 179px;
+  left: 60px;
+  width: 262px;
+  height: 22px;
+}
+.imgavatar03Icon4 {
+  position: absolute;
+  top: 190px;
+  left: 0;
+  border-radius: var(--br-xs);
+  width: 44px;
+  height: 44px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.text4 {
+  position: absolute;
+  top: 135px;
+  left: 60px;
+  width: 262px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-sm);
+  color: var(--black);
+  font-family: var(--font-roboto);
+}
+.frameInput {
+  border: 1px solid var(--main);
+  outline: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 507px;
+  left: 0;
+  border-radius: var(--br-7xs);
+  box-sizing: border-box;
+  width: 433px;
+  height: 35px;
+}
+.unsplashb5pltlpr7yaIcon,
+.unsplashb5pltlpr7yaIcon1 {
+  position: absolute;
+  height: 8.12%;
+  width: 7.69%;
+  top: 57.93%;
+  right: 92.31%;
+  bottom: 33.95%;
+  left: 0;
+  border-radius: var(--br-27xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.unsplashb5pltlpr7yaIcon1 {
+  top: 69.37%;
+  bottom: 22.51%;
+}
+.groupChild2 {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-royalblue);
+  position: absolute;
+  top: 507px;
+  left: 441px;
+  border-radius: var(--br-7xs);
+  width: 131px;
+  height: 34px;
+}
+.comment {
+  position: absolute;
+  top: 468px;
+  left: 449px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.09em;
+  line-height: 38px;
+  text-transform: uppercase;
+  display: inline-block;
+  color: var(--color-white);
+  width: 115px;
+  height: 29px;
+}
+.unsplashb5pltlpr7yaIcon2,
+.unsplashb5pltlpr7yaIcon3,
+.unsplashb5pltlpr7yaIcon4 {
+  position: absolute;
+  height: 8.12%;
+  width: 7.69%;
+  top: 35.06%;
+  right: 92.31%;
+  bottom: 56.83%;
+  left: 0;
+  border-radius: var(--br-27xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.unsplashb5pltlpr7yaIcon3,
+.unsplashb5pltlpr7yaIcon4 {
+  top: 46.49%;
+  right: 92.13%;
+  bottom: 45.39%;
+  left: 0.17%;
+}
+.unsplashb5pltlpr7yaIcon4 {
+  top: 22.88%;
+  right: 92.31%;
+  bottom: 69%;
+  left: 0;
+}
+.iWouldRecommendLlooooollParent {
+  position: absolute;
+  top: 0;
+  left: 44px;
+  width: 572px;
+  height: 542px;
+}
+.vectorContainer,
+.vectorGroup,
+.vectorParent {
+  position: absolute;
+  top: 858px;
+  left: 675px;
+  width: 673.5px;
+  height: 564px;
+  font-size: var(--font-size-base);
+}
+.vectorContainer,
+.vectorGroup {
+  top: 1502px;
+}
+.vectorContainer {
+  top: 217px;
+}
+.discussion {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  height: 2144px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray);
+  font-family: var(--font-dm-sans);
+}

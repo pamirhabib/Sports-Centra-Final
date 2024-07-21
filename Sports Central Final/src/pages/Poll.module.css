@@ -1,0 +1,65 @@
+.pollChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 92px;
+}
+.polls,
+.sportsCentral {
+  position: absolute;
+  letter-spacing: 0.01em;
+}
+.polls {
+  top: 15px;
+  left: 647px;
+  line-height: 60px;
+  text-transform: uppercase;
+  display: inline-block;
+  background: linear-gradient(180deg, #262626, #b8c2ce);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 734px;
+  height: 160px;
+}
+.sportsCentral {
+  top: 23px;
+  left: 135px;
+  font-size: var(--font-size-23xl);
+  line-height: 42px;
+  font-family: var(--font-abel);
+}
+.image2 {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 15px;
+  left: 32px;
+  border-radius: var(--br-23xl-5);
+  width: 92px;
+  height: 58px;
+  background-image: url(/public/image-2@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.image7Icon {
+  position: absolute;
+  top: 175px;
+  left: 359px;
+  width: 846px;
+  height: 329px;
+  object-fit: cover;
+}
+.poll {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  height: 617px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-abeezee);
+}
