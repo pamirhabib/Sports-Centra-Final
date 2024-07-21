@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Sports-Centra-Final/static/css/main.48500ab6.css",
+    "main.js": "/Sports-Centra-Final/static/js/main.ba0a0948.js",
+    "static/js/215.a2676d2c.chunk.js": "/Sports-Centra-Final/static/js/215.a2676d2c.chunk.js",
+    "static/media/frame-143726069@3x.png": "/Sports-Centra-Final/static/media/frame-143726069@3x.cb97eff1f0405b44c465.png",
+    "static/media/frame-1437260692@3x.png": "/Sports-Centra-Final/static/media/frame-1437260692@3x.249b3c8943f6647235a5.png",
+    "static/media/frame-1437260691@3x.png": "/Sports-Centra-Final/static/media/frame-1437260691@3x.de908c23157587473d88.png",
+    "static/media/emptyboxingarenawaitingnewrounddrenderillustration-24@3x.png": "/Sports-Centra-Final/static/media/emptyboxingarenawaitingnewrounddrenderillustration-24@3x.26068ccccad05e61a6b9.png",
+    "static/media/soccerballgreengrasssoccerfieldgenerativeai-1@2x.png": "/Sports-Centra-Final/static/media/soccerballgreengrasssoccerfieldgenerativeai-1@2x.51108084ccfcd5df96da.png",
+    "static/media/closeupbasketballoutdoors-1@2x.png": "/Sports-Centra-Final/static/media/closeupbasketballoutdoors-1@2x.e00bc02214361ca90eed.png",
+    "static/media/racehose-2@2x.png": "/Sports-Centra-Final/static/media/racehose-2@2x.0745f1373aeab68bc6b7.png",
+    "static/media/emptyboxingarenawaitingnewrounddrenderillustration-2@2x.png": "/Sports-Centra-Final/static/media/emptyboxingarenawaitingnewrounddrenderillustration-2@2x.ed1c9c9bcb91236cbfbd.png",
+    "static/media/cyclistleadsactionfrontviewmanridingbicycleracingroad-2@2x.png": "/Sports-Centra-Final/static/media/cyclistleadsactionfrontviewmanridingbicycleracingroad-2@2x.eed9b095d791aba313e0.png",
+    "static/media/image-3@2x.png": "/Sports-Centra-Final/static/media/image-3@2x.cb02c91b14f786e1f1f0.png",
+    "static/media/image-4@2x.png": "/Sports-Centra-Final/static/media/image-4@2x.7a6222198809b895dad9.png",
+    "index.html": "/Sports-Centra-Final/index.html",
+    "main.48500ab6.css.map": "/Sports-Centra-Final/static/css/main.48500ab6.css.map",
+    "main.ba0a0948.js.map": "/Sports-Centra-Final/static/js/main.ba0a0948.js.map",
+    "215.a2676d2c.chunk.js.map": "/Sports-Centra-Final/static/js/215.a2676d2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48500ab6.css",
+    "static/js/main.ba0a0948.js"
+  ]
+}
